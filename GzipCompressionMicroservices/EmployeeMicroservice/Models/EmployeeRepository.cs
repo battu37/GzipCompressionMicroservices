@@ -7,11 +7,10 @@
 
         public EmployeeRepository()
         {
-            // Sample employee data
             _employees = new List<Employee>
             {
-                new Employee { Id = 1, Name = "John Doe", Department = "HR", Salary = 55000 },
-                new Employee { Id = 2, Name = "Jane Smith", Department = "IT", Salary = 75000 }
+                new Employee { Id = 1, Name = "John Doe", DepartmentId = 1, Salary = 55000 },
+                new Employee { Id = 2, Name = "Jane Smith", DepartmentId = 2, Salary = 75000 }
             };
         }
 
@@ -27,7 +26,7 @@
             if (existing != null)
             {
                 existing.Name = employee.Name;
-                existing.Department = employee.Department;
+                existing.DepartmentId = employee.DepartmentId;
                 existing.Salary = employee.Salary;
             }
         }

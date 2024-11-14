@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "CUrahlxk2axvtCHuIpRl9i0JT2whahhkNoiUm44sNQI=",
+  "Hash": "4HRMzRkRo1Edq9nSZwKn45qqj+r/w2DZ0VF1j0iwVjE=",
   "Source": "EmployeeMicroservice",
   "BasePath": "_content/EmployeeMicroservice",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\DepartmentMicroservice\\DepartmentMicroservice.csproj",
+      "Version": 2,
+      "Source": "DepartmentMicroservice",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": [],
   "Endpoints": []

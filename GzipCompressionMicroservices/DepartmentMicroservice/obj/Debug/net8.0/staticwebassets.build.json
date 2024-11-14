@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hm2YxH4nDDje04LAN72OVZo9tFjs42jiSaY4mA/bcwE=",
+  "Source": "DepartmentMicroservice",
+  "BasePath": "_content/DepartmentMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

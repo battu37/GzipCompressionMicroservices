@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\employeemicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|solutionrelative:employeemicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\employeemicroservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|solutionrelative:employeemicroservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\employeemicroservice\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|solutionrelative:employeemicroservice\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\employeemicroservice\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|solutionrelative:employeemicroservice\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\employeemicroservice\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|solutionrelative:employeemicroservice\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\employeemicroservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|solutionrelative:employeemicroservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\employeemicroservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D5A6DBF-18EE-4896-92BA-2E685FDB42D1}|EmployeeMicroservice\\EmployeeMicroservice.csproj|solutionrelative:employeemicroservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E205D914-9808-4916-98C7-4FFF37FBE114}|DepartmentMicroservice\\DepartmentMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\departmentmicroservice\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E205D914-9808-4916-98C7-4FFF37FBE114}|DepartmentMicroservice\\DepartmentMicroservice.csproj|solutionrelative:departmentmicroservice\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E205D914-9808-4916-98C7-4FFF37FBE114}|DepartmentMicroservice\\DepartmentMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\departmentmicroservice\\models\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E205D914-9808-4916-98C7-4FFF37FBE114}|DepartmentMicroservice\\DepartmentMicroservice.csproj|solutionrelative:departmentmicroservice\\models\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E205D914-9808-4916-98C7-4FFF37FBE114}|DepartmentMicroservice\\DepartmentMicroservice.csproj|c:\\users\\prave\\onedrive\\documents\\battu\\development\\gzipcompressionmicroservices\\gzipcompressionmicroservices\\departmentmicroservice\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E205D914-9808-4916-98C7-4FFF37FBE114}|DepartmentMicroservice\\DepartmentMicroservice.csproj|solutionrelative:departmentmicroservice\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "EmployeeMicroservice\\Controllers\\EmployeesController.cs",
               "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "EmployeeMicroservice\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:09:02.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Models\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "EmployeeMicroservice\\Models\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Models\\EmployeeRepository.cs",
-              "RelativeToolTip": "EmployeeMicroservice\\Models\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:08:20.767Z",
+              "WhenOpened": "2024-11-14T18:23:43.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Models\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeMicroservice\\Models\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Models\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeMicroservice\\Models\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:23:06.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeMicroservice\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Models\\Employee.cs",
               "RelativeToolTip": "EmployeeMicroservice\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:07:11.951Z",
+              "WhenOpened": "2024-11-14T18:22:37.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeMicroservice\\Program.cs",
-              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Program.cs",
-              "RelativeToolTip": "EmployeeMicroservice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\DepartmentMicroservice\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "DepartmentMicroservice\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\DepartmentMicroservice\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "DepartmentMicroservice\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:06:40.825Z",
+              "WhenOpened": "2024-11-14T18:21:38.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "EmployeeMicroservice\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\EmployeeMicroservice\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "EmployeeMicroservice\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\DepartmentMicroservice\\Models\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DepartmentMicroservice\\Models\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\DepartmentMicroservice\\Models\\DepartmentRepository.cs",
+              "RelativeToolTip": "DepartmentMicroservice\\Models\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T18:06:36.058Z",
+              "WhenOpened": "2024-11-14T18:20:55.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\DepartmentMicroservice\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DepartmentMicroservice\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\prave\\OneDrive\\Documents\\Battu\\Development\\GzipCompressionMicroservices\\GzipCompressionMicroservices\\DepartmentMicroservice\\Models\\Department.cs",
+              "RelativeToolTip": "DepartmentMicroservice\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:20:30.752Z",
               "EditorCaption": ""
             }
           ]

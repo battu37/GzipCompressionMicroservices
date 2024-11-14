@@ -1,0 +1,1 @@
+C:\Users\prave\OneDrive\Documents\Battu\Development\GzipCompressionMicroservices\GzipCompressionMicroservices\DepartmentMicroservice\obj\Debug\net8.0\staticwebassets.build.json
